@@ -1,0 +1,19 @@
+html,body{
+    height: 1000%
+}
+body{
+    background:#f5d6f7;
+    padding: 0;
+    margin:0;
+    font-family: "Open Sans", sans-serif;
+    color:#fcfcfc;
+    text-align: center;
+}
+
+
+body{
+    font-family: 'Tangerine', serif;
+    font-size: 32px;
+    text-shadow: 4px 4px 4px #aaa;
+  }
+  
